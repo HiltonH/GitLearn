@@ -1,6 +1,7 @@
 <?php
 
 echo "Init commit";
-echo "After init commit"
+echo "After init commit";
+echo "Before";
 
 ?>
